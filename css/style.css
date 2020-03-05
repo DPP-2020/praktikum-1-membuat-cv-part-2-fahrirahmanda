@@ -1,0 +1,53 @@
+.padding{
+    padding-top: 50px;
+}
+
+.padding2{
+    padding-top: 25px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+}
+
+.kotak{
+    list-style-type: square;
+}
+
+.serif{
+    font-family: 'Bree Serif', serif;
+}
+.sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.tebalin {
+    border-width: 2px;
+
+}
+
+.kecilin {
+    width: 250px;
+    length: 250px;
+}
+
+.bgjumbo {
+    background-color: #f2f2f2;
+}
+
+.bgcard {
+    background-color: #f2f2f2;
+}
+
+.garis {
+    height: 5px;
+    width: 90%;
+    background-color: black;
+}
+
+.paddingcard {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
